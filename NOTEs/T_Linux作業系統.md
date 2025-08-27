@@ -5,7 +5,8 @@
   - Linux檔案系統(File System) 與 檔案系統標準（Filesystem Hierarchy Standard, FHS）
   - Linux 權限
   - Linux 基本指令
-- 進階認識
+- 進階認識1 ==> 系統管理
+- 進階認識2 ==> 伺服器建置與管理
 
 ## 參考書籍
 - [高效率Linux命令列學習手冊|Efficient Linux at the Command Line](https://www.gotop.com.tw/books/BookDetails.aspx?Types=o&bn=A758)
