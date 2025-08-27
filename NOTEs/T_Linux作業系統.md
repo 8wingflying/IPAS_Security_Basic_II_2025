@@ -2,6 +2,8 @@
 - 基本認識
 - 進階認識
 
+## 參考書籍
+- [高效率Linux命令列學習手冊|Efficient Linux at the Command Line](https://www.gotop.com.tw/books/BookDetails.aspx?Types=o&bn=A758)
 
 ## 延伸閱讀
 - Using and Administering Linux
