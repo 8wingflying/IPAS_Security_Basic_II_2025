@@ -1,1 +1,19 @@
-
+# T_Linux作業系統_進階認識2_伺服器建置與管理
+- 網站伺服器
+  - Apache
+  - Nginx 
+- 資料庫伺服器
+  - SQL資料庫
+    - MySQl資料庫
+    - PostgreSQL 資料庫
+  - NoSQL資料庫
+    - Redis
+    - MangoDB   
+- DNS(Domain Name System|領域名稱伺服器)伺服器
+  - Bind
+  - https://linux.vbird.org/linux_server/rocky9/0210dns.php
+- DHCP伺服器
+- Telnet|SSH 伺服器
+- Linux 防火牆(Firewall)
+  - iptables 防火牆機制 vs nftables 防火牆機制
+  - firewalld管理工具 
