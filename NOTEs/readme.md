@@ -42,8 +42,7 @@
   - T2.1.作業系統(Operation System)
     - 作業系統
     - Windows作業系統 [Windows指令(Windows Command)](https://learn.microsoft.com/zh-tw/windows-server/administration/windows-commands/windows-commands)
-    - Linux 作業系統 [Linux指令(Linux Command)](https://blog.techbridge.cc/2017/12/23/linux-commnd-line-tutorial/)
-      - Linux 檔案系統架構 
+    - [Linux 作業系統](T_Linux作業系統.md)
     - 作業系統攻擊手法分析: 提權  rootkits vs anti-rootkits
     - 作業系統的安全認證:CC
   - T2.2.網站應用程式 攻擊手法
