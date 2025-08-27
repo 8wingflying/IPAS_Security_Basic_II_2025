@@ -5,6 +5,7 @@
   - Linux檔案系統(File System) 與 檔案系統標準（Filesystem Hierarchy Standard, FHS）
   - Linux 權限
   - Linux 基本指令
+    - [Linux指令(Linux Command)](https://blog.techbridge.cc/2017/12/23/linux-commnd-line-tutorial/) 
 - 進階認識1 ==> 系統管理
 - 進階認識2 ==> 伺服器建置與管理
 
