@@ -1,5 +1,10 @@
 ## Linux作業系統
 - 基本認識
+  - 核心(Kernel)與Shell
+  - Linux Distributions
+  - Linux檔案系統(File System) 與 檔案系統標準（Filesystem Hierarchy Standard, FHS）
+  - Linux 權限
+  - Linux 基本指令
 - 進階認識
 
 ## 參考書籍
