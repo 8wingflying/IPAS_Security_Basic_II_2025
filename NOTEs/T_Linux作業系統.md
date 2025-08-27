@@ -8,10 +8,8 @@
 - 進階認識1 ==> 系統管理
 - 進階認識2 ==> 伺服器建置與管理
 
-## 參考書籍
+## 延伸閱讀|參考書籍
 - [高效率Linux命令列學習手冊|Efficient Linux at the Command Line](https://www.gotop.com.tw/books/BookDetails.aspx?Types=o&bn=A758)
-
-## 延伸閱讀
 - Using and Administering Linux
   - [Volume 1: Zero to SysAdmin: Getting Started](https://learning.oreilly.com/library/view/using-and-administering/9781484296189/)
     - [Linux 權威指南 從小白到系統管理員 (上冊)](https://www.tenlong.com.tw/products/9787111771197?list_name=srh) 
