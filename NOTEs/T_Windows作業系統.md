@@ -1,5 +1,5 @@
 # Windows作業系統
-
+- https://zh.wikipedia.org/zh-tw/Microsoft_Windows
 
 #### Windows作業系統的開發
 - 軟的Windows XP系統有4000萬行的代碼
